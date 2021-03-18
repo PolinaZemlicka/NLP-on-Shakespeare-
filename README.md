@@ -11,3 +11,5 @@ Texts were compared and data visualized.
 
 Then we narrow down on the original English text:
 How many character are there and how many times do they speak?
+
+Used: python, pandas, matplotlib
