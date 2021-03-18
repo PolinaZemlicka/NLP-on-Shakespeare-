@@ -13,3 +13,10 @@ Then we narrow down on the original English text:
 How many character are there and how many times do they speak?
 
 Used: python, pandas, matplotlib
+
+Work in progress:
+compare number of lines per characterin translations.
+
+Track number of lines exchanged between specific characters.
+
+Track character movements and create a GUI timeline.
